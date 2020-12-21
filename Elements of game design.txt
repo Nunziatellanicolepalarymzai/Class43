@@ -1,0 +1,24 @@
+Elements of game deisgn
+1 characters(playingPC-PC,non playing character-NPC)
+ PC Pacman,NPC Ghost
+2  goal of the player-eating the dots,control the pacman and keep it safe from ghost
+
+3  rules 
+   rules should be balance nor to difficul,nor to easy
+   pacman has three lives,pacman eats the yellow dots,power pallets,ghost chase the pacmanm
+4  adaptive
+
+   difficulity of game should increased as player keeps playing 
+   game should have levels
+   harder to eat the dot as the game progresses
+ 5  Elements of Chance/skill
+    moving of pacman-Elements of the skill
+    movement of ghost is elements os chance
+  
+6    feeback to the player
+     Scores,sounds,checkpoint sounds,by displaying some messages
+     by losing lives-negative feeback
+
+7    story 
+     every game should have a story"it can be a audio message/written
+      stories can direct or indirect
